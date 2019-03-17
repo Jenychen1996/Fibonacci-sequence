@@ -1,9 +1,2 @@
-Git is a version control system.
-Git is a free software.
-Git is a distributed version control system
-My ladygaga
-Creating a new branch is quick
-1
-2
-4
-
+这个文档存放着使用python3实现斐波那契数列的脚本实现，使用了两种不同的方式，迭代以及递归
+This document holds the script implementation of the Fibonacci sequence in python3 using two different methods, iteration and recursion. 
